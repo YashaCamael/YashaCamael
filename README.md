@@ -4,7 +4,7 @@ Perkenalkan nama saya **Ghiyas Ash-Shidiqie R.**
 
 Saya seorang **Mahasiswa Teknik Komputer** di **Institut Teknologi Sepuluh Nopember**  
 
-Saya merupakan anggota dari asisten Lab B401 Komputasi Multimedia dan Jaringan  
+Saya merupakan anggota dari asisten Lab B401 Robotics ITS
 
 Saya juga mengikuti pelatihan Cloud Computing AWS dan Google Bangkit Cloud Computing Learning Path.  
 
